@@ -1,4 +1,4 @@
-### 5016 Time Series Lab 3 ###
+### ARIMA ###
 
 #load packages
 library(devtools)
