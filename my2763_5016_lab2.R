@@ -1,5 +1,5 @@
-### 5016 Time Series Lab 2 ###
-# Option 1: Fixed/Random Effects
+### Time Series Analysis ###
+### Fixed/Random Effects ###
 
 #load packages
 library(plm)
